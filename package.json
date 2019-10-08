@@ -1,6 +1,6 @@
 {
   "name": "@zhangbenfang/json2schema",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "parse json to json schema",
   "license": "MIT",
   "repository": "xiao-ben/json2schema",
