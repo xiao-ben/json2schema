@@ -1,5 +1,5 @@
 {
-  "name": "@zbf/json2schema",
+  "name": "@zhangbenfang/json2schema",
   "version": "0.1.0",
   "description": "parse json to json schema",
   "license": "MIT",
